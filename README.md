@@ -30,4 +30,4 @@ The dataset used in this project contains information about various health-relat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/diabetes-patient-data-analysis-and-prediction.git
+   git clone https://github.com/namankamble/diabetes-patient-data-analysis-and-prediction.git
