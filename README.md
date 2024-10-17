@@ -12,13 +12,15 @@ This project focuses on analyzing a dataset of diabetes patients and building a 
 
 ## Dataset
 The dataset used in this project contains information about various health-related features of patients, which include:
-- Age
+- Pregnancies
+- Glucose
+- BloodPressure
+- SkinThickness
+- Insulin
 - BMI
-- Blood Pressure
-- Glucose Levels
-- Insulin Levels
-- Skin Thickness
-- And other related medical details
+- DiabetesPedigreeFunction
+- Age
+- Outcome
 
 ## Project Structure
 - `data/`: Contains the dataset used for analysis.
